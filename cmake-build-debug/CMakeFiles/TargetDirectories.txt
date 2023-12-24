@@ -1,0 +1,3 @@
+C:/Backtracking_algorithm/cmake-build-debug/CMakeFiles/Backtracking_algorithm.dir
+C:/Backtracking_algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Backtracking_algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
